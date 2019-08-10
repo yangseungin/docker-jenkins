@@ -8,7 +8,7 @@ public class DockerJenkinsApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DockerJenkinsApplication.class, args);
-        System.out.println("Hello");
+        System.out.println("내용 수정후 push");
 
     }
 
